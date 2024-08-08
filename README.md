@@ -4,6 +4,10 @@
 
 Este é o frontend do projeto Food Delivery, que visa fornecer uma plataforma para visualização e gerenciamento de pedidos de alimentos.
 
+## Visualize o Projeto
+
+Você pode visualizar o projeto em [Food Delivery Frontend](https://food-del-frontend-six.vercel.app/).
+
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para criar interfaces de usuário.
